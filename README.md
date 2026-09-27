@@ -15,6 +15,8 @@ These are my self notes when learning through.
 Please note this not the official guide, please refer to MS learn for official learning material as information changes over time with technology.
 
 # Secure access to resources by using MS Entra ID
+
+## PIM
 Privileged Identity Management (PIM) - allows you to manage, control and monitor access to resources in your organsiation.
 
 > [!TIP]
