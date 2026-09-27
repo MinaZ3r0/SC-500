@@ -25,6 +25,9 @@ Licensing required for PIM (You need one of these two.) :
 - MS Entra ID P2
 - MS Entra ID Governance
 
+> [!TIP]
+> Sometimes these licenses are bundled in other packages that you might already own like in MS E5 which is already bundled in the subscription.
+
 Key features of PIM:
 - JIT (just-in-time) access to Entra ID and Azure resources.
 - Time-bound access to resources using start and end dates.
