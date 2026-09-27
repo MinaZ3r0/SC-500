@@ -41,3 +41,19 @@ Key features of PIM:
 - Download audit history for internal or external audit.
 
 <img width="978" height="485" alt="{D10E5B57-6A9F-43C0-9F71-7A8C92F54A12}" src="https://github.com/user-attachments/assets/6be64ecc-d3a6-4275-8303-47f6e1123ddb" />
+
+These are the only two roles that can grant access to other administrators.
+> [!Note]
+> - Privileged role administrator
+> - Global Administrator
+
+The Global Administrator, Security Administrator, Global Reader and Security Reader can also view assignments to roles in Privileged Identity Management.
+
+## Implementation of PIM
+MS Entra ID > Privileged Identity Management > MS Entra roles
+Roles -
+Within here you can click on a specific role or add a new assignment
+
+<img width="978" height="476" alt="{491C6476-A790-4F70-AF13-04CC439BB66E}" src="https://github.com/user-attachments/assets/9a5b1b69-ae1b-49ac-9ffd-089b432abb59" />
+
+
